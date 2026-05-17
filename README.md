@@ -2,6 +2,13 @@
 
 This is a PyTorch assignment repository for practicing and learning purposes.
 
+## Assignments
+
+| Assignment | Topics Covered | Link |
+| --- | --- | --- |
+| Assignment 1 | PyTorch basics, tensors, and autograd | [Open assignment](assignment_1/1.ipynb) |
+| Assignment 2 | PyTorch Reshaping, Indexing , Broadcasting | [Open assignment](assignment_2/2.ipynb) |
+
 ## Installation
 
 Create and activate a virtual environment:
@@ -23,8 +30,3 @@ Start Jupyter Notebook:
 jupyter notebook
 ```
 
-## Assignments
-
-| Assignment | Topics Covered | Link |
-| --- | --- | --- |
-| Assignment 1 | PyTorch basics, tensors, and introductory practice | [Open assignment](assignment_1/1.ipynb) |
