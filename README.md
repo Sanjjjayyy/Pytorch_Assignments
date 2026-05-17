@@ -1,6 +1,6 @@
-# PyTorch Assignment Repository
+# PyTorch Assignments
 
-This is a PyTorch assignment repository for practicing and learning purposes.
+This is a PyTorch assignments repository for practicing and learning purposes.
 
 ## Assignments
 
