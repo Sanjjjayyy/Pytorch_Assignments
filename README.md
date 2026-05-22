@@ -9,7 +9,9 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 1 | PyTorch basics, tensors, and autograd | [Open assignment](assignment_1/1.ipynb) |
 | Assignment 2 | PyTorch Reshaping, Indexing , Broadcasting | [Open assignment](assignment_2/2.ipynb) |
 | Assignment 3 | Manual Gradient Descent | [Open assignment](assignment_3/3.ipynb) |
-| Assignment 4 | Linear Regression using nn.MOdule | [Open assignment](assignment_4/4.ipynb) |
+| Assignment 4 | Linear Regression using nn.Module | [Open assignment](assignment_4/4.ipynb) |
+| Assignment 5 | MultiClass Classification | [Open assignment](assignment_5/5.ipynb) |
+
 
 ## Installation
 
