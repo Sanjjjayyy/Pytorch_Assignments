@@ -11,6 +11,7 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 3 | Manual Gradient Descent | [Open assignment](assignment_3/3.ipynb) |
 | Assignment 4 | Linear Regression using nn.Module | [Open assignment](assignment_4/4.ipynb) |
 | Assignment 5 | MultiClass Classification | [Open assignment](assignment_5/5.ipynb) |
+| Assignment 6 | Custom Dataset and DataLoader | [Open assignment](assignment_6/6.ipynb) |
 
 
 ## Installation
