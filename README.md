@@ -12,6 +12,7 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 4 | Linear Regression using nn.Module | [Open assignment](assignment_4/4.ipynb) |
 | Assignment 5 | MultiClass Classification | [Open assignment](assignment_5/5.ipynb) |
 | Assignment 6 | Custom Dataset and DataLoader | [Open assignment](assignment_6/6.ipynb) |
+| Assignment 7 | Validation Accuracy and Model Evaluvation | [Open assignment](assignment_7/7.ipynb) |
 
 
 ## Installation
