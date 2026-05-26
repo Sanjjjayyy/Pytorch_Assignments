@@ -14,6 +14,7 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 6 | Custom Dataset and DataLoader | [Open assignment](assignment_6/6.ipynb) |
 | Assignment 7 | Validation Accuracy and Model Evaluvation | [Open assignment](assignment_7/7.ipynb) |
 | Assignment 8 | Saving and Loading Models | [Open assignment](assignment_8/8.ipynb) |
+| Assignment 9 | CNN Fundamentals | [Open assignment](assignment_9/9.ipynb) |
 
 
 
