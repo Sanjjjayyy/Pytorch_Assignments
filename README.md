@@ -6,8 +6,8 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 
 | Assignment | Topics Covered | Link |
 | :--- | :--- | :--- |
-| Assignment 1 | PyTorch basics, tensors, and autograd | [Open assignment](assignment_1/1.ipynb) |
-| Assignment 2 | PyTorch Reshaping, Indexing , Broadcasting | [Open assignment](assignment_2/2.ipynb) |
+| Assignment 1 | PyTorch basics,tensors and autograd | [Open assignment](assignment_1/1.ipynb) |
+| Assignment 2 | PyTorch Reshaping, Indexing, Broadcasting | [Open assignment](assignment_2/2.ipynb) |
 | Assignment 3 | Manual Gradient Descent | [Open assignment](assignment_3/3.ipynb) |
 | Assignment 4 | Linear Regression using nn.Module | [Open assignment](assignment_4/4.ipynb) |
 | Assignment 5 | MultiClass Classification | [Open assignment](assignment_5/5.ipynb) |
@@ -15,7 +15,7 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 7 | Validation Accuracy and Model Evaluvation | [Open assignment](assignment_7/7.ipynb) |
 | Assignment 8 | Saving and Loading Models | [Open assignment](assignment_8/8.ipynb) |
 | Assignment 9 | CNN Fundamentals | [Open assignment](assignment_9/9.ipynb) |
-
+| Assignment 10 | CNN with MaxPooling | [Open assignment](assignment_10/10.ipynb) |
 
 
 ## Installation
