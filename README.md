@@ -16,6 +16,8 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 8 | Saving and Loading Models | [Open assignment](assignment_8/8.ipynb) |
 | Assignment 9 | CNN Fundamentals | [Open assignment](assignment_9/9.ipynb) |
 | Assignment 10 | CNN with MaxPooling | [Open assignment](assignment_10/10.ipynb) |
+| Assignment 11 | Dropout & Overfitting | [Open assignment](assignment_11/11.ipynb) |
+
 
 
 ## Installation
