@@ -19,6 +19,7 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 11 | Dropout & Overfitting | [Open assignment](assignment_11/11.ipynb) |
 | Assignment 12 | RNN Fundamentals | [Open assignment](assignment_12/12.ipynb) |
 | Assignment 13 | LSTM Fundamentals | [Open assignment](assignment_13/13.ipynb) |
+| Assignment 14 | Custom Neural Network Blocks | [Open assignment](assignment_14/14.ipynb) |
 
 
 
