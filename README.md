@@ -20,7 +20,8 @@ This is a PyTorch assignments repository for practicing and learning purposes.
 | Assignment 12 | RNN Fundamentals | [Open assignment](assignment_12/12.ipynb) |
 | Assignment 13 | LSTM Fundamentals | [Open assignment](assignment_13/13.ipynb) |
 | Assignment 14 | Custom Neural Network Blocks | [Open assignment](assignment_14/14.ipynb) |
-| Assignment 14 | GRU Fundamentals | [Open assignment](assignment_14/14.ipynb) |
+| Assignment 15 | GRU Fundamentals | [Open assignment](assignment_14/14.ipynb) |
+| Assignment 16 | Loss Functions | [Open assignment](assignment_15/15.ipynb) |
 
 
 
